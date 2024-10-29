@@ -10,4 +10,4 @@ information.
 
 ### Sources of Projects
 All Projects from 1 to 8 are derived from the Google Cybersecrity Professional Certificate.
-1. [Conducting a Security Audit]
+1. [Conducting a Security Audit](https://github.com/IreneMakonnen/irene_portfolio.github.io/blob/0e473affe8eb8f57da6e529c90a6e60f0378dd79/Conducting%20a%20Security%20Audit)
