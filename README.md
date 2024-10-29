@@ -1,4 +1,4 @@
-# Irene_Cybersecurity_portfolio.github.io
+# Irene_Cybersecurity_Portfolio
 
 ## Professional Statement
 I am an adaptable and organized individual with strong time management skills, committed to
@@ -10,3 +10,4 @@ information.
 
 ### Sources of Projects
 All Projects from 1 to 8 are derived from the Google Cybersecrity Professional Certificate.
+1. [Conducting a Security Audit]
