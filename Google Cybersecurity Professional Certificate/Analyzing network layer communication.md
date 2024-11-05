@@ -1,6 +1,6 @@
 # Analyzing network layer communication
 ## Scenario
- You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
+You are a cybersecurity analyst working at a company that specializes in providing IT services for clients. Several customers of clients reported that they were not able to access the client company website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load. 
 
 You are tasked with analyzing the situation and determining which network protocol was affected during this incident. To start, you attempt to visit the website and you also receive the error “destination port unreachable.” To troubleshoot the issue, you load your network analyzer tool, tcpdump, and attempt to load the webpage again. To load the webpage, your browser sends a query to a DNS server via the UDP protocol to retrieve the IP address for the website's domain name; this is part of the DNS protocol. Your browser then uses this IP address as the destination IP for sending an HTTPS request to the web server to display the webpage  The analyzer shows that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable.” 
 
@@ -23,19 +23,24 @@ In the tcpdump log, you find the following information:
 7. The remaining lines in the log indicate that ICMP packets were sent two more times, but the same delivery error was received both times.  
 
 ### Cybersecurity Incident Report: Network Traffic Analysis
-| Part 1: Provide a summary of the problem found in the DNS and ICMP  traffic log.  |  |
-| :---- | ----- |
-| The UDP protocol reveals that: the server was unable to acknowledge the reception of the data packet.  This is based on the results of the network analysis, which show that the ICMP echo reply returned the error message: udp port 53 unreachable   The port noted in the error message is used for: DNS  The most likely issue is: the DNS server is offline or overwhelmed with malicious attacks.  |  |
-|  |  |
+#### Part 1: Provide a summary of the problem found in the DNS and ICMP  traffic log.  
+The UDP protocol reveals that: the server was unable to acknowledge the reception of the data packet.  
 
-| Part 2: Explain your analysis of the data and provide at least one cause of the incident. |
-| :---- |
-| Time incident occurred: 1:24 PM  Explain how the IT team became aware of the incident: Upon complaints of several customers of clients unable to access the website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load.  Explain the actions taken by the IT department to investigate the incident: First tried to access the website and received a similar error message “destination port unreachable”. Did a troubleshoot by loading tcpdump, a network analyzer tool, and attempted to load the webpage again. The analyzer showed that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable”.  Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.): The plus sign after the query identification number indicates there are flags associated with the UDP message. The "A?" indicates a flag associated with the DNS request for an A record, where an A record maps a domain name to an IP address. The third line displays the protocol of the response message to the browser: "ICMP," which is followed by an ICMP error message. Next steps in troubleshooting and resolving the issue: Restart the DNS server and cancel requests overwhelming the server.  Note a likely cause of the incident: DoS attack |
+This is based on the results of the network analysis, which show that the ICMP echo reply returned the error message: udp port 53 unreachable   
 
-## **Activity Overview**
+The port noted in the error message is used for: DNS  
 
-**![][image1]**  
-In this activity, you will analyze DNS and ICMP traffic in transit using data from a network protocol analyzer tool. You will identify which network protocol was utilized in assessment of the cybersecurity incident.   
-In the internet layer of the TCP/IP model, the IP formats data packets into IP datagrams. The information provided in the datagram of an IP packet can provide security analysts with insight into suspicious data packets in transit.  
-Knowing how to identify potentially malicious traffic on a network can help cybersecurity analysts assess security risks on a network and reinforce network security.  
-Be sure to complete this activity before moving on. The next course item will provide you with a completed exemplar to compare to your own work.
+The most likely issue is: the DNS server is offline or overwhelmed with malicious attacks.
+
+#### Part 2: Explain your analysis of the data and provide at least one cause of the incident. 
+Time incident occurred: 1:24 PM  
+
+Explain how the IT team became aware of the incident: Upon complaints of several customers of clients unable to access the website www.yummyrecipesforme.com, and saw the error “destination port unreachable” after waiting for the page to load.  
+
+Explain the actions taken by the IT department to investigate the incident: First tried to access the website and received a similar error message “destination port unreachable”. Did a troubleshoot by loading tcpdump, a network analyzer tool, and attempted to load the webpage again. The analyzer showed that when you send UDP packets to the DNS server, you receive ICMP packets containing the error message: “udp port 53 unreachable”.  
+
+Note key findings of the IT department's investigation (i.e., details related to the port affected, DNS server, etc.): The plus sign after the query identification number indicates there are flags associated with the UDP message. The "A?" indicates a flag associated with the DNS request for an A record, where an A record maps a domain name to an IP address. The third line displays the protocol of the response message to the browser: "ICMP," which is followed by an ICMP error message. 
+
+Next steps in troubleshooting and resolving the issue: Restart the DNS server and cancel requests overwhelming the server.  
+
+Note a likely cause of the incident: DoS attack.

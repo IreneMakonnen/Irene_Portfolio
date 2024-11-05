@@ -8,14 +8,23 @@ You use a packet sniffer to capture data packets in transit to and from the web 
 You take the server offline temporarily so that the machine can recover and return to a normal operating status. You also configure the company’s firewall to block the IP address that was sending the abnormal number of SYN requests. You know that your IP blocking solution won’t last long, as an attacker can spoof other IP addresses to get around this block. You need to alert your manager about this problem quickly and discuss the next steps to stop this attacker and prevent this problem from happening again. You will need to be prepared to tell your boss about the type of attack you discovered and how it was affecting the web server and employees.
 
 ## Cybersecurity Incident Report
-| Section 1: Identify the type of attack that may have caused this  network interruption |
-| :---- | ----- |
-| One potential explanation for the website's connection timeout error message is: A DoS attack. The web server is unable to respond due to multiple SYN requests flooding it every second without a connection.  The logs show that: The attacker is sending SYN requests over a short period of time overwhelming the web server and causing it to be unresponsive.  This event could be: A DoS attack particularly a SYN flood attack.  |
+### Section 1: Identify the type of attack that may have caused this  network interruption
+One potential explanation for the website's connection timeout error message is: A DoS attack. The web server is unable to respond due to multiple SYN requests flooding it every second without a connection.  
 
-| Section 2: Explain how the attack is causing the website to malfunction |
-| :---- |
-| When website visitors try to establish a connection with the web server, a three-way handshake occurs using the TCP protocol. Explain the three steps of the handshake: 1\. A device sends SYN (synchronize) packet to the server, requesting to connect.  2\. The web server sends back a SYN/ACK (synchronize/acknowledge) packet to the device to acknowledge the request of the device and reserves a port for the connection.  3\. The device sends an ACK (acknowledge) packet to the server and a connection is formed.  When a malicious actor sends a large number of SYN packets all at once, the web server is overwhelmed by the number of requests and is unable to form a connection due to limited resources to reserve a connection. The website is therefore unable to be accessed.  The logs indicate numerous SYN packets were sent from one IP address, 203.0.113.0, within a short period of time. The server slowed down and eventually stopped responding to requests from legitimate website visitors due to the inability to reserve a connection therefore sending out a timeout error message. |
+The logs show that: The attacker is sending SYN requests over a short period of time overwhelming the web server and causing it to be unresponsive.  
 
-| Ways to Secure the Network to Prevent Future Attack |
-| :---- |
-| Configure firewalls by creating rules to restrict the number of connections that an IP address can make within a specific time frame. Implement a defense-in-depth strategy by using industry standard encryption to strengthen security and help defend against DoS attacks along with IDS/IPS systems to monitor and detect unusual patterns in the network. |
+This event could be: A DoS attack particularly a SYN flood attack.
+
+### Section 2: Explain how the attack is causing the website to malfunction 
+When website visitors try to establish a connection with the web server, a three-way handshake occurs using the TCP protocol. Explain the three steps of the handshake: 
+1. A device sends SYN (synchronize) packet to the server, requesting to connect.  
+2. The web server sends back a SYN/ACK (synchronize/acknowledge) packet to the device to acknowledge the request of the device and reserves a port for the connection.  
+3. The device sends an ACK (acknowledge) packet to the server and a connection is formed.  
+
+When a malicious actor sends a large number of SYN packets all at once, the web server is overwhelmed by the number of requests and is unable to form a connection due to limited resources to reserve a connection. The website is therefore unable to be accessed.  
+
+The logs indicate numerous SYN packets were sent from one IP address, 203.0.113.0, within a short period of time. The server slowed down and eventually stopped responding to requests from legitimate website visitors due to the inability to reserve a connection therefore sending out a timeout error message.
+
+### Ways to Secure the Network to Prevent Future Attack |
+- Configure firewalls by creating rules to restrict the number of connections that an IP address can make within a specific time frame. 
+- Implement a defense-in-depth strategy by using industry standard encryption to strengthen security and help defend against DoS attacks along with IDS/IPS systems to monitor and detect unusual patterns in the network.
