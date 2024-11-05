@@ -25,6 +25,6 @@ When a malicious actor sends a large number of SYN packets all at once, the web 
 
 The logs indicate numerous SYN packets were sent from one IP address, 203.0.113.0, within a short period of time. The server slowed down and eventually stopped responding to requests from legitimate website visitors due to the inability to reserve a connection therefore sending out a timeout error message.
 
-### Ways to Secure the Network to Prevent Future Attack |
+### Ways to Secure the Network to Prevent Future Attack
 - Configure firewalls by creating rules to restrict the number of connections that an IP address can make within a specific time frame. 
 - Implement a defense-in-depth strategy by using industry standard encryption to strengthen security and help defend against DoS attacks along with IDS/IPS systems to monitor and detect unusual patterns in the network.
