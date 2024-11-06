@@ -13,4 +13,4 @@ All Projects from 1 to 8 are derived from the Google Cybersecrity Professional C
 1. [Conducting a Security Audit](https://github.com/IreneMakonnen/Irene_Portfolio/blob/a2c3dd28016f57b2f74c19847d4abca3c33f5290/Google%20Cybersecurity%20Professional%20Certificate/Conducting%20a%20Security%20Audit.md)
 2. [Analyzing network layer communication](https://github.com/IreneMakonnen/Irene_Portfolio/blob/0d25c9a472ec7f93b0833095bf682c883dd5aaf1/Google%20Cybersecurity%20Professional%20Certificate/2.%20Analyzing%20network%20layer%20communication.md)
 3. [Analyzing network attacks](https://github.com/IreneMakonnen/Irene_Portfolio/blob/0d25c9a472ec7f93b0833095bf682c883dd5aaf1/Google%20Cybersecurity%20Professional%20Certificate/3.%20Analyzing%20network%20attacks.md)
-4. [Application of OS hardening techniques]()
+4. [Application of OS hardening techniques](https://github.com/IreneMakonnen/Irene_Portfolio/blob/a5567a2ff72170b77664ec3f56186ed3a67b9d92/Google%20Cybersecurity%20Professional%20Certificate/4.%20Application%20of%20OS%20hardening%20techniques.md)
