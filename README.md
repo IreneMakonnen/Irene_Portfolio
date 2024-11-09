@@ -10,7 +10,7 @@ information.
 
 ## Sources of Projects
 | Google Cyberseccurity Proessional Certificate |
-| :--- |
+| --- |
 | All Projects from 1 to 8 are derived from the Google Cybersecrity Professional Certificate. |
 | 1. | [Conducting a Security Audit](https://github.com/IreneMakonnen/Irene_Portfolio/blob/a2c3dd28016f57b2f74c19847d4abca3c33f5290/Google%20Cybersecurity%20Professional%20Certificate/Conducting%20a%20Security%20Audit.md) |
 | 2. | [Analyzing network layer communication](https://github.com/IreneMakonnen/Irene_Portfolio/blob/0d25c9a472ec7f93b0833095bf682c883dd5aaf1/Google%20Cybersecurity%20Professional%20Certificate/2.%20Analyzing%20network%20layer%20communication.md) |
