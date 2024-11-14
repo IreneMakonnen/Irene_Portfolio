@@ -18,4 +18,4 @@ information.
 | 4. [Application of OS hardening techniques](https://github.com/IreneMakonnen/Irene_Portfolio/blob/978bf68c3ade23312d2ebbb06111d5b2c9466a51/Google%20Cybersecurity%20Professional%20Certificate/4.%20Application%20of%20OS%20hardening%20techniques.md) |
 | 5. [Analysis of network hardening](https://github.com/IreneMakonnen/Irene_Portfolio/blob/978bf68c3ade23312d2ebbb06111d5b2c9466a51/Google%20Cybersecurity%20Professional%20Certificate/5.%20Analysis%20of%20network%20hardening.md) |
 | 6. [Using the NIST CSF to respond to security incident](https://github.com/IreneMakonnen/Irene_Portfolio/blob/978bf68c3ade23312d2ebbb06111d5b2c9466a51/Google%20Cybersecurity%20Professional%20Certificate/6.%20Using%20NIST%20CSF%20to%20respond%20to%20security%20incident.md) |
-| 7. [Using Linux commands to manage file permissions]() |
+| 7. [Using Linux commands to manage file permissions](https://github.com/IreneMakonnen/Irene_Portfolio/blob/59efd36715ce7d1cf48b89fdd80f8467e65bc8dd/Google%20Cybersecurity%20Professional%20Certificate/7.%20Using%20Linux%20commands%20to%20manage%20file%20permissions.md) |
