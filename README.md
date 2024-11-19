@@ -19,4 +19,4 @@ information.
 |  | 2.4 [Analysis of network hardening](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/2.4%20Analysis%20of%20network%20hardening.md) |
 |  | 2.5 [Using the NIST CSF to respond to security incident](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/2.5%20Using%20NIST%20CSF%20to%20respond%20to%20security%20incident.md) |
 | 3. Tools of the Trade: Linux and SQL | 3.1 [Using Linux commands to manage file permissions](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/3.1%20Using%20Linux%20commands%20to%20manage%20file%20permissions.md) |
-|  | 3.2 [Applying filters to SQL queries]() |
+|  | 3.2 [Applying filters to SQL queries](https://github.com/IreneMakonnen/Irene_Portfolio/blob/7f840df101f5ccba9aeedb0a9ecbbb86ef75537b/Google%20Cybersecurity%20Professional%20Certificate/3.2%20Applying%20filters%20to%20SQL%20queries.md) |
