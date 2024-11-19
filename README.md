@@ -9,9 +9,9 @@ principles in my work, ensuring the confidentiality, integrity, and protection o
 information.
 
 ## Sources of Projects
-### Google Cyberseccurity Proessional Certificate
+### Google Cyberseccurity Professional Certificate
 | Course Topic | Project |
-| :--- | :---: |
+| :--- | :--- |
 | 1. Play It Safe: Manage Security Risks | 1.1 [Conducting a Security Audit](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/1.1%20Conducting%20a%20Security%20Audit.md) |
 | 2. Connect and Protect: Networks and Network Security | 2.1 [Analyzing network layer communication](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/2.1%20Analyzing%20network%20layer%20communication.md) |
 |  | 2.2 [Analyzing network attacks](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/2.2%20Analyzing%20network%20attacks.md) |
