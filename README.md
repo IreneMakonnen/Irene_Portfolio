@@ -9,7 +9,7 @@ principles in my work, ensuring the confidentiality, integrity, and protection o
 information.
 
 ## Sources of Projects
-### Google Cyberseccurity Professional Certificate
+### Google Cybersecurity Professional Certificate
 | Course Topic | Project |
 | :--- | :--- |
 | 1. Manage Security Risks | 1.1 [Conducting a Security Audit](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/1.1%20Conducting%20a%20Security%20Audit.md) |
