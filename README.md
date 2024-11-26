@@ -21,4 +21,4 @@ information.
 | 3. Linux and SQL | 3.1 [Using Linux commands to manage file permissions](https://github.com/IreneMakonnen/Irene_Portfolio/blob/41a0e955ebacbce18c71cc6779faf4a30ad41511/Google%20Cybersecurity%20Professional%20Certificate/3.1%20Using%20Linux%20commands%20to%20manage%20file%20permissions.md) |
 |  | 3.2 [Applying filters to SQL queries](https://github.com/IreneMakonnen/Irene_Portfolio/blob/7f840df101f5ccba9aeedb0a9ecbbb86ef75537b/Google%20Cybersecurity%20Professional%20Certificate/3.2%20Applying%20filters%20to%20SQL%20queries.md) |
 | 4. Assets, Threats, and Vulnerabilities |  4.1 [Classifying the assets connected to a home network](https://github.com/IreneMakonnen/Irene_Portfolio/blob/6fbb5818714f7b61f8dc61d6b3ec8b15a7d1e068/Google%20Cybersecurity%20Professional%20Certificate/4.1%20Classifying%20the%20assets%20connected%20to%20a%20home%20network.md) |
-|  | 4.2 []() |
+|  | 4.2 [Scoring risks based on their likelihood and severity]() |
