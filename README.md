@@ -27,3 +27,4 @@ information.
 |  | 4.5 [Analyzing a vulnerable system for a small business](https://github.com/IreneMakonnen/Irene_Portfolio/blob/2202b9332b46ce849359808586288abb05d07a99/Google%20Cybersecurity%20Professional%20Certificate/4.5%20Analyzing%20a%20vulnerable%20system%20for%20a%20small%20business.md) |
 |  | 4.6 [Identifying the attack vectors of a USB drive](https://github.com/IreneMakonnen/Irene_Portfolio/blob/50a81fdfe498c5fdc2d3e998c63369a4d1fe96d1/Google%20Cybersecurity%20Professional%20Certificate/4.6%20Identifying%20the%20attack%20vectors%20of%20a%20USB%20drive.md) |
 |  | 4.7 [Applying the PASTA threat model framework](https://github.com/IreneMakonnen/Irene_Portfolio/blob/816c0dad7af3c91dabd5dc4957d610c308f6de8d/Google%20Cybersecurity%20Professional%20Certificate/4.7%20Applying%20the%20PASTA%20threat%20model%20framework.md) |
+| 5. Detection and Response | 5.1 []() |
