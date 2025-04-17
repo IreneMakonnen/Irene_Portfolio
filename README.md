@@ -29,9 +29,9 @@ Below you'll find an overview of the projects I worked on, detailing the skills 
 
 ---
 
-### Prodigy InfoTech Internship Projects
+### Other Projects
 
-I secured a 1 month internship position with Prodigy InfoTech. I had the opportunity to hone my skills as well as gain new ones in the various projects I undertook.
+An opportunity to hone my skills as well as gain new ones in the various projects I undertook.
 Links are provided below for a more detailed review.
 
 <details>
