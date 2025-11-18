@@ -40,8 +40,4 @@ Links are provided below for a more detailed review.
 | Project | Explanation | Skills |
 | :--- | :---: | :---|
 | [Implement Caesar Cipher](https://github.com/IreneMakonnen/PRODIGY_CS_01) | A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm | `Python`, `Cryptography` |
-| [Pixel Manipulation for Image Encryption]() |  |  |
-| [Password Complexity Checker]() |  |  |
-| [Simple Keylogger]() |  |  |
-| [Network Packet Analyzer]() |  |  |
 </details>
