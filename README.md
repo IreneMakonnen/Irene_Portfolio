@@ -28,6 +28,8 @@ Below you'll find an overview of the projects I worked on, detailing the skills 
 
 </details>
 
+---
+
 ### Google Cloud Cybersecurity Professional Certificate
 
 I successfully completed a 5-course Google Cloud Cybersecurity Certificate program, where I gained hands-on experience with essential tools and techniques.
@@ -63,3 +65,5 @@ Links are provided below for a more detailed review.
 | :--- | :---: | :---|
 | [Implement Caesar Cipher](https://github.com/IreneMakonnen/PRODIGY_CS_01) | A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm | `Python`, `Cryptography` |
 </details>
+
+---
