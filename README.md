@@ -27,6 +27,26 @@ Below you'll find an overview of the projects I worked on, detailing the skills 
 | 6. Automate Cybersecurity Tasks with Python | `Computer Programming`, `Python Programming`, `Coding`, `PEP 8 style guide` | 6.1 [Updating a file through a Python algorithm](https://github.com/IreneMakonnen/Irene_Portfolio/blob/f6acfe57f8899186131712ce0ee5c785aa8413f8/Google%20Cybersecurity%20Professional%20Certificate/6.1%20Updating%20a%20file%20through%20a%20Python%20algorithm.md) |
 </details>
 
+### Google Cloud Cybersecurity Professional Certificate
+
+I successfully completed a 5-course Google Cloud Cybersecurity Certificate program, where I gained hands-on experience with essential tools and techniques.
+
+Platforms and tools used: `Security Command Center (SCC)`, `Cloud Firewall` and `Logging`.
+
+Below you'll find an overview of the projects I worked on, detailing the skills acquired, the methodologies applied, and the technologies used in simulated cybersecurity scenarios.
+
+<details>
+    <summary>PROJECTS COVERED</summary>
+
+| Course Topic | Skills Gained | Project |
+| :--- | :---: | :---|
+| 1. Introduction to Security Principles in Cloud Computing | `DevSecOps`, `Computer Networking`, `IT Automation`, `Cloud Technologies`, `IAM`, `Infrastructure Security`, `Cloud Computing Architecture`, `Digital Transformation` | 1.1 [Terraform configuration file]() <br> 1.2 [Creating a VPC using Cloud Shell]() |
+| 2. Strategies for Cloud Security Risk Management | `Risk Management Framework`, `Infrastructure as Code (IaC)`, `Information Privacy`, `ISO/IEC 27001`, `NIST 800-53` | 2.1 [Reviewing a compliance report]() <br> 2.2 [Reviewing and updating a risk management policy]() <br> 2.3 [Using SCC reports to remediate findings]() |
+| 3. Cloud Security Risks: Identify and Protect Against Threats | `Authorization (Computing)`, `IAM`, `Vulnerability Assessments`, `Data Security & Governance`, `Cloud-Native Computing`, `Infrastructure as Code (IaC)`, `Authentications`, `Containerization`, `Infrastructure Security`, `RBAC` | 3.1 [Creating a role in Google Cloud IAM]() <br> 3.2 [Accessing a firewall and creating a rule]() <br> 3.3 [Identifying vulnerabilities and remediation techniques]() <br> 3.4 [Changing firewall rules using Terraform and Cloud Shell]() <br> 3.5 [Analyzing the security of a container]() <br> 3.6 [Creating symmetric and asymmetric keys]() |
+| 4. Detect, Respond, and Recover from Cloud Cybersecurity Attacks | `Intrusion Detection and Prevention`, `Incident Management`, `Disaster Recovery`, `Threat Detection & Management`, `Cyber Threat Hunting`, `SIEM`, `Security Controls`, `Computer Security Incident Management`, `System & Event Monitoring`, `Record Keeping`, `IT Automation` | 4.1 [Determining the difference between normal activity and an incident]() <br> 4.2 [Exploring false positives through incident detection]() <br> 4.3 [Analyzing audit logs using BigQuery]() <br> 4.4 [Documenting a timeline of events]() <br> 4.5 [Recovering VMs with Google Backup and DR Service]() |
+| 5. Put It All Together: Prepare for a Cloud Security Analyst Job | `AI`, `Generative AI`, `Google Cloud Platform` | 5.1 [Capstone Project]() <br> 5.2 [Incident report for Capstone Project]() |
+</details>
+
 ---
 
 ### Other Projects
