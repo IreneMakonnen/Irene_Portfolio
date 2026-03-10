@@ -1,10 +1,20 @@
 # Irene_Cybersecurity_Portfolio
 
-## Professional Statement
+Welcome! I’m Irene Makonnen, a cybersecurity professional with a focus on ethical hacking, mobile, network and web security, and cyber defense. This portfolio showcases my hands-on projects, security research, and technical skills.
 
-I am an adaptable and organized individual with strong time management skills, committed to clear and effective communication. My passion for cybersecurity stems from its dynamic nature, where technical and problem-solving skills are constantly applied to safeguard individuals and organizations from evolving threats. I value honesty and respect, and I strive to maintain these principles in my work, ensuring the confidentiality, integrity, and protection of sensitive information.
+## Key Skills
 
-## Sources of Projects
+- Cyber Security Automation
+- Vulnerability Assessment
+- Mobile Application Security
+- Network Security
+- Web Application Security
+- Penetration Testing
+- Risk Assessment & Compliance
+- Incident Response & Threat Intelligence
+- Cyber Security Reporting
+
+## Project Hub
 
 ### Google Cybersecurity Professional Certificate
 
@@ -53,7 +63,29 @@ Below you'll find an overview of the projects I worked on, detailing the skills 
 
 ---
 
-### Other Projects
+### AfricaHackon Academy
+
+I successfully completed the AfricaHackOn Academy 7-month intensive program which exposed me to hands-on training and real-world simulations.
+
+<details>
+    <summary>PROJECTS COVERED</summary>
+
+| Title | Project | Skills & Tools |
+| :---: | :--- | :---|
+| Linux Automation | [Password checker]() <br><br> [File permission checker]() <br><br> [Simple log monitor]() <br><br> [IP address validator]() <br><br> [Security report]() <br><br> [Security Quiz Game]() <br><br> [Coding + MySQL](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Coding%20+%20MySQL.md) | `Python`, `Bash`, `SQL` |
+| Network Security | [Network Services]() <br><br> [Network Discovery & Analysis]() <br><br> [Packet Capture Analaysis]() <br><br> [Snort]() <br><br> [Wireless Network Auditing & Pentesting]() | `Apache`, `Wireshark`, `Snort` |
+| Recon & OSINT | [Domain & Subdomain Exploration]() | `OSINT` |
+| Windows Security | [Windows Exploitation]() | `Metasploit`, `ngrok` |
+| Web & API Security | [crAPI]() | `Burp Suite`, `Postman`, `OWASP10` |
+| Mobile Application Security | [Beetlebug CTF](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Beetlebug%20CTF.md) <br><br> [Damn Vulnerable Bank]() <br><br> [Vulnerable Bank](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Vulnerable%20Bank.md) | `MobSF`, `Jadx`, `Burp Suite`, `ADB` |
+| Penetration Testing | [Vulnerable Bank]() | `OWASP10` |
+| Cloud Security | [flAWS challenge]() | `AWS CLI`, `Cloud Security` |
+| Threat Hunting & Incident Response | [Velociraptor]() | `Velociraptor`, `MITRE` |
+| Malware Analysis | [TryHackMe Empire Room](https://tryhackme.com/room/rppsempire) | `Metasploit`, `Empire` |
+
+</details>
+
+### Other Personal Projects
 
 An opportunity to hone my skills as well as gain new ones in the various projects I undertook.
 Links are provided below for a more detailed review.
@@ -61,7 +93,7 @@ Links are provided below for a more detailed review.
 <details>
     <summary>PROJECTS COVERED</summary>
 
-| Project | Explanation | Skills |
+| Project | Description | Skills |
 | :--- | :---: | :---|
 | [Implement Caesar Cipher](https://github.com/IreneMakonnen/PRODIGY_CS_01) | A Python program that can encrypt and decrypt text using the Caesar Cipher algorithm | `Python`, `Cryptography` |
 </details>
