@@ -31,7 +31,7 @@ sudo systemctl start mysql
 sudo mysql #to login as a user 
 sudo mysql -u root -p #to login as root 
 
-ALTER USER 'root'@'localhost' IDENTIFIED BY 'NewPassword';
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'Password';
 
 FLUSH PRIVILEGES;
 ```
@@ -109,7 +109,7 @@ Implemented a coding script that updates a student's email based on their id.
 
 ## Data Deletion
 
-Created a coding script to delete a student record based on their id.
+Created a coding script to delete a student record based on their ID.
 
 ![Delete Student Record](<attachments/Coding + MySQL/Delete student record.png>)
 ![Student Record Deleted](<attachments/Coding + MySQL/Student Record Deleted.png>)
@@ -125,7 +125,7 @@ source flask/bin/activate
 pip install flask mysql-connector-python
 ```
 
-## A script to insert user inputs from a HTML form into tthe database
+## A script to insert user inputs from a HTML form into the database
 
 ```python
 from flask import Flask, request, jsonify, render_template_string

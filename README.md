@@ -72,16 +72,13 @@ I successfully completed the AfricaHackOn Academy 7-month intensive program whic
 
 | Title | Project | Skills & Tools |
 | :---: | :--- | :---|
-| Linux Automation | [Password checker]() <br><br> [File permission checker]() <br><br> [Simple log monitor]() <br><br> [IP address validator]() <br><br> [Security report]() <br><br> [Security Quiz Game]() <br><br> [Coding + MySQL](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Coding%20+%20MySQL.md) | `Python`, `Bash`, `SQL` |
-| Network Security | [Network Services]() <br><br> [Network Discovery & Analysis]() <br><br> [Packet Capture Analaysis]() <br><br> [Snort]() <br><br> [Wireless Network Auditing & Pentesting]() | `Apache`, `Wireshark`, `Snort` |
-| Recon & OSINT | [Domain & Subdomain Exploration]() | `OSINT` |
-| Windows Security | [Windows Exploitation]() | `Metasploit`, `ngrok` |
-| Web & API Security | [crAPI]() | `Burp Suite`, `Postman`, `OWASP10` |
-| Mobile Application Security | [Beetlebug CTF](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Beetlebug%20CTF.md) <br><br> [Damn Vulnerable Bank]() <br><br> [Vulnerable Bank](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Vulnerable%20Bank.md) | `MobSF`, `Jadx`, `Burp Suite`, `ADB` |
-| Penetration Testing | [Vulnerable Bank]() | `OWASP10` |
-| Cloud Security | [flAWS challenge]() | `AWS CLI`, `Cloud Security` |
-| Threat Hunting & Incident Response | [Velociraptor]() | `Velociraptor`, `MITRE` |
-| Malware Analysis | [TryHackMe Empire Room](https://tryhackme.com/room/rppsempire) | `Metasploit`, `Empire` |
+| Linux Automation | [Coding + MySQL](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Coding%20+%20MySQL.md) | `Python`, `Bash`, `SQL` |
+| Network Security | [Network Discovery & Analysis](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Network%20Discovery%20&%20Analysis.md) <br><br> [Packet Capture Analysis](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Packet%20Capture%20Analaysis.md) <br><br> [Snort](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Snort.md) <br><br> [Wireless Network Auditing & Pentesting](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Wireless%20Network%20Auditing%20&%20Pentesting.md) | `Apache`, `Wireshark`, `Snort` |
+| Windows Security | [Windows Exploitation](https://github.com/IreneMakonnen/Irene_Portfolio/blob/dc63e33bc8662c37e29997ee242990aeea194c49/AfricaHackOn%20Academy/Windows%20Exploitation.md) | `Metasploit`, `ngrok` |
+| Web & API Security | [crAPI](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/crAPI.md) | `Burp Suite`, `Postman`, `OWASP10` |
+| Mobile Application Security | [Beetlebug CTF](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Beetlebug%20CTF.md) <br><br> [Vulnerable Bank](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Vulnerable%20Bank.md) | `MobSF`, `Jadx`, `Burp Suite`, `ADB`, `Penetration Testing`, `OWASP`, `Malware Analysis` |
+| Cloud Security | [flAWS challenge](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/flAWS%20challenge.md) | `AWS CLI`, `Cloud Security` |
+| Threat Hunting & Incident Response | [Velociraptor](https://github.com/IreneMakonnen/Irene_Portfolio/blob/main/AfricaHackOn%20Academy/Velociraptor.md) | `Velociraptor`, `MITRE`, `Sysmon` |
 
 </details>
 

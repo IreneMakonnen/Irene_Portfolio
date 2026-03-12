@@ -1,0 +1,7 @@
+{
+    "snyk.scanningMode": "auto",
+    "snyk.advanced.autoSelectOrganization": true,
+    "snyk.securityAtInception.autoConfigureSnykMcpServer": false,
+    "snyk.features.preview": {},
+    "snyk.features.infrastructureAsCode": true
+}
