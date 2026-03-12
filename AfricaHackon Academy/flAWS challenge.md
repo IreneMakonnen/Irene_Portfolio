@@ -337,7 +337,7 @@ As you explore `http://level6-cc4c404a8a8b876167f5e70a7d8c9880.flaws.cloud/ddcc7
 
 For this final challenge, you're getting a user access key that has the SecurityAudit policy attached to it. We see what else it can do and what else we might find in this AWS account.
 
-- Access key ID: `AKIA.....`
+- Access key ID: `AKIA...`
 - Secret: `S2I...+dZ4ps+u`
 
 Create a profile and enter the credentials above using the command: `aws configure --profile level6`
