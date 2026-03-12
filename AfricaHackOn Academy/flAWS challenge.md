@@ -138,7 +138,7 @@ To do this, first we need the account ID, which we can get using the AWS key fro
 
 ![AWS Account ID](<attachments/flAWS challenge/AWS account ID.png>)
 
-Using that command also tells you the name of the account, which in this case is named "backup" (`arn:aws:iam::975426262029:user/backup`). The backups this account makes are snapshots of EC2s.
+Using that command also tells you the name of the account, which in this case is named `backup` (`arn:aws:iam::975426262029:user/backup`). The backups this account makes are snapshots of EC2s.
 
 Next, discover the snapshot: `aws --profile flaws ec2 describe-snapshots --owner-id 975426262029 --region us-west-2`
 
